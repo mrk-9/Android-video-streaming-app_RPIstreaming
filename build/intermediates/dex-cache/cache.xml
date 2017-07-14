@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Volumes/MyDATA/MyWork/CurrentTask/RPIStreaming/Android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Volumes/MyDATA/MyWork/CurrentTask/RPIStreaming/Android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_7fe1bcac04edab66d2b39b9ba16c9818c990b846.jar" />
+    </item>
+    <item
+        jar="/Volumes/MyDATA/MyWork/CurrentTask/RPIStreaming/Android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Volumes/MyDATA/MyWork/CurrentTask/RPIStreaming/Android/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_954bf3b380067ee750f7aca8d11c8c5be1b71eac.jar" />
+    </item>
+    <item
+        jar="/Volumes/MyDATA/MyWork/CurrentTask/RPIStreaming/Android/app/build/intermediates/exploded-aar/FFmpegAndroid/1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="399c3bdf5001efcfb6f4e665d9600fd743c4473a">
+        <dex dex="/Volumes/MyDATA/MyWork/CurrentTask/RPIStreaming/Android/app/build/intermediates/pre-dexed/debug/exploded-aar-FFmpegAndroid-1.0_466d85ed080194a8fbfeec5d231825639b515109.jar" />
+    </item>
+    <item
+        jar="/Volumes/MyDATA/MyWork/CurrentTask/RPIStreaming/Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Volumes/MyDATA/MyWork/CurrentTask/RPIStreaming/Android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_dcd4e477df36d88bc439a5c1966c499d56f96684.jar" />
+    </item>
+    <item
+        jar="/Volumes/MyDATA/MyWork/CurrentTask/RPIStreaming/Android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Volumes/MyDATA/MyWork/CurrentTask/RPIStreaming/Android/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_6b4a1fc0192da27367dc10295f8cb54a17928954.jar" />
+    </item>
+    <item
+        jar="/Volumes/Tools/DevelopmentTools/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Volumes/MyDATA/MyWork/CurrentTask/RPIStreaming/Android/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_d426dd5b09e05d7a8cc75b62de3505054bd53741.jar" />
+    </item>
+    <item
+        jar="/Volumes/MyDATA/MyWork/CurrentTask/RPIStreaming/Android/app/build/intermediates/exploded-aar/de.mrmaffen/vlc-android-sdk/3.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="43abcb2ec5686c280782c946ea468f9ac7ea15c0">
+        <dex dex="/Volumes/MyDATA/MyWork/CurrentTask/RPIStreaming/Android/app/build/intermediates/pre-dexed/debug/de.mrmaffen-vlc-android-sdk-3.0.0_35a27e1a5a1c4f2a4071f51ac1913503e86e79be.jar" />
+    </item>
+    <item
+        jar="/Volumes/MyDATA/MyWork/CurrentTask/RPIStreaming/Android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Volumes/MyDATA/MyWork/CurrentTask/RPIStreaming/Android/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_0cd8b0eda6aac6e89bf87586b597dd85e2e08f4e.jar" />
+    </item>
+
+</items>
